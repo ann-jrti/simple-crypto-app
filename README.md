@@ -1,4 +1,4 @@
 # Simple crypto app
 
-## Uses coingecko API
-## Implements search bar for filtering coins
+- Uses coingecko API
+- Implements search bar for filtering coins
